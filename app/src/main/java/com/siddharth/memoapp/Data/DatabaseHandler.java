@@ -1,4 +1,4 @@
-package com.apkglobal.memoapp.Data;
+package com.siddharth.memoapp.Data;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,8 +6,8 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.apkglobal.memoapp.Model.Memo;
-import com.apkglobal.memoapp.Util.Constants;
+import com.siddharth.memoapp.Model.Memo;
+import com.siddharth.memoapp.Util.Constants;
 
 import java.util.ArrayList;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package com.apkglobal.memoapp;
+package com.siddharth.memoapp;
 
 import org.junit.Test;
 

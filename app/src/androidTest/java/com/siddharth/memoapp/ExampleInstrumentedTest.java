@@ -1,4 +1,4 @@
-package com.apkglobal.memoapp;
+package com.siddharth.memoapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.apkglobal.memoapp.Util;
+package com.siddharth.memoapp.Util;
 
 public class Constants {
 

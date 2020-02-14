@@ -1,4 +1,4 @@
-package com.apkglobal.memoapp.Activites;
+package com.siddharth.memoapp.Activites;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,10 +14,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.apkglobal.memoapp.Data.DatabaseHandler;
-import com.apkglobal.memoapp.Data.RecyclerViewAdapter;
-import com.apkglobal.memoapp.Model.Memo;
-import com.apkglobal.memoapp.R;
+import com.siddharth.memoapp.Data.DatabaseHandler;
+import com.siddharth.memoapp.Data.RecyclerViewAdapter;
+import com.siddharth.memoapp.Model.Memo;
+import com.siddharth.memoapp.R;
 
 import java.util.ArrayList;
 import java.util.List;

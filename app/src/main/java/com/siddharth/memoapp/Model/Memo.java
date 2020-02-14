@@ -1,4 +1,4 @@
-package com.apkglobal.memoapp.Model;
+package com.siddharth.memoapp.Model;
 
 public class Memo {
 

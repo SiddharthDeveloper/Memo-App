@@ -1,4 +1,4 @@
-package com.apkglobal.memoapp.Data;
+package com.siddharth.memoapp.Data;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -12,8 +12,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.apkglobal.memoapp.Model.Memo;
-import com.apkglobal.memoapp.R;
+import com.siddharth.memoapp.Model.Memo;
+import com.siddharth.memoapp.R;
 
 import java.util.List;
 
